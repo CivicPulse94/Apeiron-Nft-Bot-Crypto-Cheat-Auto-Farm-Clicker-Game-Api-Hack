@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\14\\Apeiron Nft\\Apeiron-Nft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|Apeiron-Nft-Exp\\Form11\\Form1.csproj|d:\\githubnew\\14\\apeiron nft\\apeiron-nft\\apeiron-nft-exp\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|Apeiron-Nft-Exp\\Form11\\Form1.csproj|solutionrelative:apeiron-nft-exp\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DD5BB6-F3CC-4442-8C7D-BB2640D706FA}|Apeiron-Nft-Exp\\Apeiron-Nft.Bot.csproj|d:\\githubnew\\14\\apeiron nft\\apeiron-nft\\apeiron-nft-exp\\utils\\nativeimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DD5BB6-F3CC-4442-8C7D-BB2640D706FA}|Apeiron-Nft-Exp\\Apeiron-Nft.Bot.csproj|solutionrelative:apeiron-nft-exp\\utils\\nativeimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\14\\Apeiron Nft\\Apeiron-Nft\\Apeiron-Nft-Exp\\Form11\\Form1.cs",
+              "RelativeDocumentMoniker": "Apeiron-Nft-Exp\\Form11\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\14\\Apeiron Nft\\Apeiron-Nft\\Apeiron-Nft-Exp\\Form11\\Form1.cs [Design]",
+              "RelativeToolTip": "Apeiron-Nft-Exp\\Form11\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:28:31.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NativeImports.cs",
+              "DocumentMoniker": "D:\\GithubNew\\14\\Apeiron Nft\\Apeiron-Nft\\Apeiron-Nft-Exp\\Utils\\NativeImports.cs",
+              "RelativeDocumentMoniker": "Apeiron-Nft-Exp\\Utils\\NativeImports.cs",
+              "ToolTip": "D:\\GithubNew\\14\\Apeiron Nft\\Apeiron-Nft\\Apeiron-Nft-Exp\\Utils\\NativeImports.cs",
+              "RelativeToolTip": "Apeiron-Nft-Exp\\Utils\\NativeImports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:28:29.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
